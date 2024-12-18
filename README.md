@@ -1,7 +1,7 @@
 # CS50 Final Project - "Please Be You" Flash Cards
 
 Name: Daryl Wong<br/> 
-Final Project Title: "Please Be You" Flash Cards<br/>
+Final Project Title: Pokédex
 Programming Language: Java
 
 For my final project, I made an Android application inspired by a children's book written by my colleague. This book, 
