@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LetterActivity"
+    android:id="@+id/activity_letter">
+
+    <FrameLayout
+        android:id="@+id/card_fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/next_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|right"
+            android:layout_margin="30dp"
+            android:backgroundTint="#5ba9b6"
+            android:tint="@color/cardview_dark_background"
+            android:src="@drawable/round_keyboard_arrow_right_black_18dp"
+            android:clickable="true"
+            android:focusable="true"/>
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/back_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|left"
+            android:layout_margin="30dp"
+            android:backgroundTint="#5ba9b6"
+            android:tint="@color/cardview_dark_background"
+            android:src="@drawable/round_keyboard_arrow_left_black_18dp"
+            android:clickable="true"
+            android:focusable="true"/>
+
+    </FrameLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
