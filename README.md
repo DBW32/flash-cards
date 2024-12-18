@@ -4,11 +4,11 @@ Name: Daryl Wong<br/>
 Final Project Title: "Please Be You" Flash Cards<br/>
 Programming Language: Java
 
-For my final project, I made an Android application inspired by a children's book written by my colleague which is 
-an educational ABC book that uses words associated with important values and concepts of self-love to teach kids
-the alphabet.  For example, instead of words like "cat" or "elephant," this book uses words like "confident" or 
-"empathy" to teach kids their ABCs.  The Android app I built takes the concepts from this book and presents them as 
-virtual flashards for users to browse through.  
+For my final project, I made an Android application inspired by a children's book written by my colleague. This book, 
+titled, "Please Be You" is an educational ABC book that uses words associated with important values of self-love to teach 
+kids the alphabet.  For example, instead of words like "cat" or "elephant," this book uses words like "confident" or 
+"empathy" to teach kids their ABCs. The Android app I built takes the concepts from this book and presents them as 
+virtual flashcards for users to browse through.  
 
 Upon launching the app, the user is presented with a splash screen and main menu along the bottom.  In the menu, 
 selecting "About" will take users to a screen sharing more information about the Please Be You vision and selecting
